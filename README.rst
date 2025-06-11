@@ -3,6 +3,8 @@
 
 Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
+Users dont have all the features of bots, so be careful as we will not provide any changes or help.
+
 ======
 
 .. image:: https://img.shields.io/pypi/v/py-cord.svg?style=for-the-badge&logo=pypi&color=yellowgreen&logoColor=white
